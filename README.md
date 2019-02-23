@@ -1,2 +1,2 @@
 # hello-world
-# this ewpository will have the files for hello nworld project
+# this repository will have the files for hello world project
